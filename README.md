@@ -1,9 +1,9 @@
 ### Hi there, I'm David 👋
 
 ## Introduction
-- 🔭 I’m currently working on at [Bill.com][billcom]
+- 🔭 I’m currently working at [Bill.com][billcom]
 - 🌱 I’m currently learning Kubernetes
-- 🥅 2020 Goals: Making it easier to Ops
+- 🥅 2020 Goals: Making it easier to DevOps
 
 ### Connect with me:
 
