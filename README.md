@@ -32,4 +32,4 @@
 [website]: https://www.peng168.com
 [billcom]: https://www.bill.com
 [twitter]: https://twitter.com/dpengftw
-[linkedin]: https://www.linkedin.com/in/david-peng-3624161/
+[linkedin]: https://www.linkedin.com/in/david-peng-3624161
