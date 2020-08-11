@@ -1,15 +1,15 @@
 ### Hi there, I'm David 👋
 
 ## Introduction
-- 🔭 I’m currently working on at Bill.com
+- 🔭 I’m currently working on at [Bill.com][billcom]
 - 🌱 I’m currently learning Kubernetes
 - 🥅 2020 Goals: Making it easier to Ops
 
 ### Connect with me:
 
 [<img align="left" alt="peng168.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -26,6 +26,7 @@
 <br />
 
 
-[website]: https://peng168.com
+[website]: https://www.peng168.com
+[billcom]: https://www.bill.com
 [twitter]: https://twitter.com/dpengftw
 [linkedin]: https://www.linkedin.com/in/david-peng-3624161/
