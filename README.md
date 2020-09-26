@@ -2,7 +2,7 @@
 
 ## Introduction
 - 🔭 I’m currently working at [Bill.com][billcom]
-- 🌱 I’m currently learning [Kubernetes][kubernetes]
+- 🌱 I’m lovin' [Kubernetes][kubernetes]
 - 🥅 2020 Goals: Making it easier to DevOps
 
 ### Connect with me:
