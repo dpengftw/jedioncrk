@@ -2,7 +2,7 @@
 
 ## Introduction
 - 🔭 I’m currently working at [Bill.com][billcom]
-- 🌱 I’m lovin' [Kubernetes][kubernetes]
+- 🌱 I’m lovin' [Kubernetes][kubernetes], [Ansible][ansible], [Cardano][cardano]
 - 🥅 2020 Goals: Making it easier to DevOps
 
 ### Connect with me:
@@ -23,3 +23,5 @@
 [kubernetes]: https://kubernetes.io/docs/home/
 [twitter]: https://twitter.com/dpengftw
 [linkedin]: https://www.linkedin.com/in/david-peng-3624161/
+[ansible]: https://github.com/ansible/ansible
+[cardano]: https://cardano.org/
